@@ -7,7 +7,7 @@
   * [Attribute Information](#attribute-Information)
   * [Motivation](#motivation)
   * [Demo](#demo)
-  * [Learning Objective](#Learning-Objective)
+  * [Stpes in project execution](#steps)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
@@ -68,8 +68,7 @@ Idea is to implement the end to end machine learning project while using free de
 ### Demo
 [Visit this link for live demo](https://concretstrength7.herokuapp.com/)
 
-### Learning Objective
-The following points were the objective of the project.
+### Stpes in project execution
 
 - Data gathering 
 - Descriptive Analysis 
@@ -81,17 +80,17 @@ The following points were the objective of the project.
 
 ### Technical Aspect 
 
-- Training a machine learning model using scikit-learn. 
+- Training a machine learning model using scikit-learn. Multiple algorithms are used to come up with best performing algorithm.
 - Building and hosting a streamlit web app on Heroku. 
 - A user has to input machine operating features.
 - Once it gets all the fields information , the prediction is displayed. 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Heart-Disease-at-early-stage/master/Logo Images/streamlit.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/streamlit.png" width=160>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=160>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=160>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=160>
 
 
 ### Installation 
