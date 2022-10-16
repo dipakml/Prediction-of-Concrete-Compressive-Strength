@@ -23,12 +23,27 @@ XGBoost=pickle.load(pickle_in)
 pickle_sc = open("sc.pkl","rb")
 sc=pickle.load(pickle_sc)  
 
+def add_bg_from_url():
+    st.markdown(
+         f"""S
+         <style>
+         .stApp {{
+             background-image: url("https://cdn.pixabay.com/photo/2017/12/03/20/31/background-2995826__480.png");
+             background-attachment: fixed;
+             background-size: cover
+         }}
+         </style>
+         """,
+         unsafe_allow_html=True
+     )
+
+add_bg_from_url() 
 
 
 def main():
     html_temp = """
     <div style="background-color:green;padding:10px">
-    <h2 style="color:white;text-align:center;">Prediction of Concrete Compressive Strength </h2>
+    <h3 style="color:white;text-align:center;">Prediction of Concrete Compressive Strength </h3>
     </div>
     """
         
