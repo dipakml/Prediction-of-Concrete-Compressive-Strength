@@ -68,6 +68,11 @@ Idea is to implement the end to end machine learning project while using free de
 ### Demo
 [Visit this link for live demo](https://concretstrength7.herokuapp.com/)
 
+Web application Snapshot:
+
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/webapp_snapshot.png" width=800>
+
+
 ### Stpes in project execution
 
 - Data gathering 
