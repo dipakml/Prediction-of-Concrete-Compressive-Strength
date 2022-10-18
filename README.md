@@ -1,5 +1,6 @@
 ## End-to-End Machine Learning Project- Prediction of Concrete Compressive Strength Using Machine Learning 
 
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/concrete.png" width=800>
 
 ### Table of Content
   * [Overview](#overview)
