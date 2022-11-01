@@ -88,7 +88,7 @@ Web application Snapshot:
 
 - Training a machine learning model using scikit-learn. Multiple algorithms are used to come up with best performing algorithm.
 - Building and hosting a streamlit web app on Heroku. 
-- A user has to input machine operating features.
+- A user has to input key attributes as mentioned above.
 - Once it gets all the fields information , the prediction is displayed. 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
